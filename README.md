@@ -13,3 +13,5 @@ A simple and fun terminal game where you have to choose the right glass pane to 
 2. Run the script:
    ```bash
    python glass_bridge.py
+
+for vvtteu
